@@ -1,4 +1,4 @@
-[![gavischneider](https://circleci.com/github/gavischneider/udacity-project-four.svg?style=svg)](https://app.circleci.com/pipelines/github/gavischneider/udacity-project-four)
+[![gavischneider](https://circleci.com/gh/gavischneider/udacity-project-four.svg?style=svg)](https://app.circleci.com/pipelines/github/gavischneider/udacity-project-four)
 
 ## Project Overview
 
