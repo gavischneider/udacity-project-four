@@ -4,8 +4,7 @@
 #
 version: 2
 
-# fix jobs
-          jobs:
+jobs:
   build:
     docker:
       # Use the same Docker base as the project
